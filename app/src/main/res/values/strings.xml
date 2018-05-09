@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pay the Piper</string>
+    <string name="calculate_amount">Calculate amount</string>
+    <string name="amount_due_rs_0">Amount Due : Rs.0</string>
+    <string name="total_rs_0">Total : Rs.0</string>
+    <string name="rs_1">Rs.1</string>
+    <string name="rs_2">Rs.2</string>
+    <string name="rs_5">Rs.5</string>
+    <string name="rs_10">Rs.10</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+
+</resources>
